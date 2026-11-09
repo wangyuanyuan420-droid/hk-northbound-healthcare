@@ -1,0 +1,32 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# OS
+.DS_Store
+
+# Large binaries / vendored resources (download separately, see README)
+chromedriver
+*.zip
+dict.txt.big
+resources/dict.txt.big
+
+# Raw, non-anonymised data stays local
+data/raw/*
+!data/raw/.gitkeep
+
+# Full-text and identifying analysis exports stay local.
+data/processed/*
+!data/processed/.gitkeep
+
+# Internal planning artifacts are not part of the public portfolio.
+docs/superpowers/
+
+# Notebook checkpoints
+.ipynb_checkpoints/

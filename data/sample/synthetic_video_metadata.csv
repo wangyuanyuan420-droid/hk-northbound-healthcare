@@ -1,0 +1,13 @@
+﻿record_id,outlet,year,view_count,like_count,comment_count
+sample_01,HK01,2018,1200,31,7
+sample_02,HK01,2019,4200,88,19
+sample_03,HK01,2023,42800,831,167
+sample_04,HK01,2024,17100,328,56
+sample_05,SingTao,2018,900,14,3
+sample_06,SingTao,2023,7900,104,26
+sample_07,SingTao,2024,5300,76,18
+sample_08,DotDotNews,2019,1600,22,5
+sample_09,DotDotNews,2023,11100,203,42
+sample_10,DotDotNews,2024,6800,92,16
+sample_11,TaKungPao,2018,700,9,2
+sample_12,TaKungPao,2024,3500,51,10
